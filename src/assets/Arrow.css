@@ -1,0 +1,13 @@
+.dropdown-content{
+    background-color: white;
+    width: 150%;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    z-index: 10;
+}
+.dropdown{
+    width: 5%;
+    padding-left: 10px;
+    margin-left: 10px;
+}
